@@ -1,20 +1,15 @@
-# <h1 align="center">Hi, I'm Barış <a></h1>
-    
+### Hi , my name is Barış
+#### I am Computer Engineering student
+![I am Computer Engineering student]
 
-<div>
-<h3 align="left">About Me</h3>
- I'm Barış, 20 years old and 3rd-year Computer Engineering student who wants to be Game Developer and Game Designer.<br>
- And I'm currently seeking a role where I can gain new experiences and work as an intern. <br>
- I also like 3D modelling. <br>
+I'm Barış, 20 years old and 3rd-year Computer Engineering student who wants to be Game Developer and Game Designer.
+And I'm currently seeking a role where I can gain new experiences and work as an intern.
+I also like 3D modelling.
 
-<br> <br> <br>
-<p align="center">
-   <a href="mailto:b.deniz20031@gmail.com">
-         <img alt="Mail" src="Images/mail.png"
-         width=50" height="50">
-      </a>
-      <a href="https://https://bartiko1.itch.io/">
-         <img alt="Games" src="Images/itch.png"
-         width=50" height="50">
-      </a>
-</p>
+Skills: Unity / Blender / C# / HTML / CSS
+
+- 📫 How to reach me: b.deniz20031@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/barış-deniz-özcan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg' alt='itch-dot-io' height='40'>](https://bartiko1.itch.io)  
+

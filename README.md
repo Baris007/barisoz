@@ -1,6 +1,5 @@
 ### Hi , my name is Barış
 #### I am Computer Engineering student
-![I am Computer Engineering student]
 
 I'm Barış, 20 years old and 3rd-year Computer Engineering student who wants to be Game Developer and Game Designer.
 And I'm currently seeking a role where I can gain new experiences and work as an intern.
